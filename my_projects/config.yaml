@@ -1,0 +1,55 @@
+Entity:
+  name:
+    - John
+    - Elizabeth
+    - Evan
+    - Nanami
+  
+  person:
+    - simple:   # simple and complex shouldn't be lists
+      - I
+      - You
+      - We
+      - They 
+    - complex:
+      - He
+      - She
+      - It
+
+  verb:
+    simple:
+      - do
+      - say
+      - write
+      - smell
+      - be
+      - drink
+      - piss
+    complex:
+      - does
+      - says
+      - writes
+      - smells
+      - is
+      - drinks
+      - pisses
+  
+  object:
+    - nonsense
+    - bullshit
+    - pretty smart stuff
+    - silly stuff
+    - meth
+    - math
+    - shit
+    - peko
+    - code gay
+    - naranjú
+    
+  answer:
+    - No shit
+    - You kiddin'?
+    - Great news!
+    - I'm so excited
+    - Uhh, I love that stuff
+    - Shit like that turn me on
